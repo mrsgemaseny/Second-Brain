@@ -14,7 +14,8 @@ _Обновлено: 2026-08-31_
   - *Курсы Уровня 1 (Базовый)*: Вайбкодинг, тулинг, Git, FSD, Лендинг + Клиентский Маркетплейс.
   - *Курс Уровня 2 (ОСНОВНОЙ КУРС / Флагман Mr Developer)*: Full-Stack (Spring Boot + React + PostgreSQL), RBAC, OAuth 2.0, Three.js 3D (Трекер денег), CRM Kanban + Telegram Bot + CI/CD.
   - *Курсы Уровня 3 (Продвинутый)*: AI Core, Streaming SSE, RAG, WebClient, PII-маскирование, Google SMTP (Pensee).
-- **Статус:** **Level 3 — Strong Educational MVP / Pre-Release Pilot COMPLETED** (100% Green: 80 тестов Vitest, 250 backend-тестов JUnit, 0 ошибок сборки; пилот 2 студентов завершён: Усман запустил `tandamen.kz`, Ратмир прошёл до 4 недели; методичка Blueprint на 30 уроков готова на 100%; подготовка ко 2-му коммерческому потоку).
+- **Статус:** **Level 3 — Strong Educational MVP / Live Production** (100% Green: 80 тестов Vitest, 250 backend-тестов JUnit, 0 ошибок сборки; пилот 2 студентов завершён: Усман запустил `tandamen.kz`, Ратмир прошёл до 4 недели; методичка Blueprint на 30 уроков готова на 100%; подготовка ко 2-му коммерческому потоку).
+- **Боевой деплой (Live Production):** Frontend на Vercel ([`courses.mrsgemaseny.com`](https://courses.mrsgemaseny.com) / [`mr-dev-courses.vercel.app`](https://mr-dev-courses.vercel.app)), Backend на Render ([`mrdevcourses.onrender.com`](https://mrdevcourses.onrender.com)), PostgreSQL 17 на Render с 67 миграциями Flyway.
 - **Стек:** Java 17 + Spring Boot 3.3.0 + Spring Security 6 + Google OAuth2 + JWT (httpOnly cookie) + PostgreSQL 17 (pgvector, pg_trgm) + Bucket4j + React 19 + TypeScript + Vite + Tailwind v4 + FSD Architecture.
 - **Философия менторства Mr Developer:**
   1. *Zero Friction Setup*: Студент устанавливает весь софт (VS Code, Antigravity, Cursor, Git) по прямым ссылкам и пошаговым чеклистам прямо из карточки урока.

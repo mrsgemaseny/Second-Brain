@@ -1,10 +1,10 @@
 # MrDevCourses — Обучающая платформа Mr Developer
 
 **Репо:** github.com/MrSgemaSeny/MrDevCourses  
-**Деплой:** Fly.io (Backend) + Vercel / GitHub Pages (Frontend)  
+**Деплой:** Render (Backend & PostgreSQL: `mrdevcourses.onrender.com`) + Vercel (Frontend: `courses.mrsgemaseny.com`)  
 **API:** `/api/v1/**`  
 **Старт:** 2026-08-25  
-**Уровень платформы:** **Level 3 — Strong Educational MVP / Pre-Release Pilot** (100% Green: 236 JUnit backend, 73 Vitest frontend)  
+**Уровень платформы:** **Level 3 — Strong Educational MVP / Live Production** (100% Green: 250 JUnit backend, 80 Vitest frontend, 67 Flyway миграций)  
 **Фаза:** Фазы 0–5 полностью завершены (B2C Discovery, Curriculum Accordion, Drip Calculation, AI Grader & AST Guard, Hybrid RAG RRF, Quiz Anti-Cheat, PDF Certificates, Admin Suite, Telegram Bot)  
 **Линейка курсов платформы (`mr-developer-curriculum.md`):**
 - **Курсы Уровня 1 (Базовый)**: Вайбкодинг, AI-ассистенты, Git, FSD, Лендинг + Клиентский Маркетплейс
